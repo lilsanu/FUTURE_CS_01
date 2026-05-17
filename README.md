@@ -1,4 +1,4 @@
-# Web Vulnerability Assessment
+# TASK 1 - Web Vulnerability Assessment
 
 ## Overview
 This project demonstrates a vulnerability assessment conducted against the Metasploitable 2 virtual machine using Nmap.
@@ -32,7 +32,7 @@ This project demonstrates a vulnerability assessment conducted against the Metas
 - Security Reporting
 - Network Enumeration
 
-# Phishing Email Detection & Awareness System
+# TASK 2 - Phishing Email Detection & Awareness System
 
 ## Overview
 This project demonstrates phishing email analysis using sample emails, header review, browser tools, and risk classification.
@@ -61,7 +61,7 @@ This project demonstrates phishing email analysis using sample emails, header re
 - Prevention guidelines
 
 
-# API Security Risk Analysis
+# TASK 3 - API Security Risk Analysis
 
 ## Overview
 This project demonstrates an API Security Risk Analysis conducted against the JSONPlaceholder public test API using Postman and Browser DevTools.
