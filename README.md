@@ -31,3 +31,31 @@ This project demonstrates a vulnerability assessment conducted against the Metas
 - Risk Assessment
 - Security Reporting
 - Network Enumeration
+
+# Phishing Email Detection & Awareness System
+
+## Overview
+This project demonstrates phishing email analysis using sample emails, header review, browser tools, and risk classification.
+
+## Objectives
+- Identify phishing indicators
+- Classify emails as Safe, Suspicious, or Phishing
+- Explain phishing risks in simple business language
+- Provide prevention and awareness guidelines
+
+## Tools Used
+- Email Header Analyzer
+- Browser Tools
+- Google Docs / MS Word / PDF
+- Canva
+
+## Key Skills
+- Phishing detection
+- Email threat analysis
+- Risk communication
+- Security awareness reporting
+
+## Deliverables
+- Phishing Detection & Awareness Report
+- Email sample analysis
+- Prevention guidelines
